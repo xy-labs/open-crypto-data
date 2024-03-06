@@ -1,0 +1,29 @@
+{
+  "id": "binance",
+  "name": "Binance",
+  "ticker": "BNB",
+  "country": "CN",
+  "type": "spot",
+  "founding_year": "2017",
+  "url": "https://www.binance.com/",
+  "url_ref": "https://accounts.binance.com/register?ref=15950859",
+  "url_api": "https://binance-docs.github.io/apidocs/spot/en/",
+  "forum": "https://binance.vision/",
+  "socials": {
+    "reddit": "https://www.reddit.com/r/Binance/",
+    "twitter": "https://twitter.com/Binance",
+    "telegram": {
+      "en": "https://t.me/binanceexchange",
+      "cn": "https://t.me/BinanceChinese"
+    },
+    "telegram_ann": {
+      "en": "https://t.me/binance_announcements",
+      "cn": "https://t.me/binance_cn"
+    },
+    "facebook": "https://www.facebook.com/binance",
+    "youtube": null,
+    "instagram": "https://www.instagram.com/binance/",
+    "linkedin": "https://www.linkedin.com/company/binance",
+    "discord": "https://discord.gg/jE4wt8g2H2"
+  }
+}
