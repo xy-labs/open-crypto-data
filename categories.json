@@ -1,0 +1,26 @@
+{
+  "currency": {
+    "name": "Currency",
+    "description": "Assets whose main use is as a medium of exchange or store of value."
+  },
+  "layer_1": {
+    "name": "Layer 1",
+    "description": "The base layer of a blockchain network."
+  },
+  "layer_2": {
+    "name": "Layer 2",
+    "description": "A secondary layer built on top of a blockchain network that enables faster and cheaper transactions."
+  },
+  "pow": {
+    "name": "Proof of Work",
+    "description": "A consensus mechanism that requires participants to perform a certain amount of computational work to add a new block to the blockchain."
+  },
+  "pos": {
+      "name": "Proof of Stake",
+      "description": "A consensus mechanism that requires participants to prove ownership of a certain amount of cryptocurrency to add a new block to the blockchain."
+  },
+  "smart_contract_platform": {
+    "name": "Smart Contract Platform",
+    "description": "Self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code."
+  }
+}

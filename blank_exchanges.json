@@ -1,0 +1,29 @@
+{
+  "id": null,
+  "name": null,
+  "ticker": null,
+  "country": null,
+  "type": null,
+  "founding_year": null,
+  "url": null,
+  "url_ref": null,
+  "url_api": null,
+  "forum": null,
+  "socials": {
+    "reddit": null,
+    "twitter": null,
+    "telegram": {
+      "en": null,
+      "cn": null
+    },
+    "telegram_ann": {
+      "en": null,
+      "cn": null
+    },
+    "facebook": null,
+    "youtube": null,
+    "instagram": null,
+    "linkedin": null,
+    "discord": null
+  }
+}
