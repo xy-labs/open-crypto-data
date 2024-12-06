@@ -1,29 +1,27 @@
 {
   "id": "binance",
   "name": "Binance",
-  "ticker": "BNB",
-  "country": "CN",
-  "type": "spot",
-  "founding_year": "2017",
+  "ticker": "BNC",
+  "country": "China",
+  "has_spot": true,
+  "has_derivatives": false,
+  "has_options": false,
+  "has_margin": true,
+  "is_decentralized": false,
+  "founding_year": 2017,
   "url": "https://www.binance.com/",
   "url_ref": "https://accounts.binance.com/register?ref=15950859",
   "url_api": "https://binance-docs.github.io/apidocs/spot/en/",
-  "forum": "https://binance.vision/",
   "socials": {
-    "reddit": "https://www.reddit.com/r/Binance/",
-    "twitter": "https://twitter.com/Binance",
-    "telegram": {
-      "en": "https://t.me/binanceexchange",
-      "cn": "https://t.me/BinanceChinese"
-    },
-    "telegram_ann": {
-      "en": "https://t.me/binance_announcements",
-      "cn": "https://t.me/binance_cn"
-    },
-    "facebook": "https://www.facebook.com/binance",
-    "youtube": null,
-    "instagram": "https://www.instagram.com/binance/",
-    "linkedin": "https://www.linkedin.com/company/binance",
-    "discord": "https://discord.gg/jE4wt8g2H2"
+    "telegram": ["https://t.me/binanceexchange", "https://t.me/BinanceChinese"],
+    "telegram_ann": ["https://t.me/binance_announcements", "https://t.me/binance_cn"],
+    "x": ["Binance"],
+    "discord": ["https://discord.gg/jE4wt8g2H2"],
+    "reddit": ["Binance"],
+    "facebook": ["https://www.facebook.com/binance"],
+    "youtube": ["https://www.youtube.com/channel/UCfYw6dhiwGBJQY_-Jcs8ozw"],
+    "instagram": ["https://www.instagram.com/binance/"],
+    "linkedin": ["https://www.linkedin.com/company/binance"],
+    "forum": ["https://binance.vision/"]
   }
 }
