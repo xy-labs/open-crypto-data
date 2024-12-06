@@ -1,7 +1,36 @@
 {
   "currency": {
     "name": "Currency",
-    "description": "Assets whose main use is as a medium of exchange or store of value."
+    "description": {
+      "en": "Assets whose main use is as a medium of exchange or store of value.",
+      "es": "Activos cuyo principal uso es como medio de intercambio o almacén de valor.",
+      "tr": "Bir değer depolama veya değiş tokuş aracı olarak kullanılan varlıklar.",
+      "ru": "Активы, главная цель которых является использование в качестве средства обмена или хранения ценности.",
+      "pt": "Ativos cuja principal utilização é como meio de troca ou armazenamento de valor.",
+      "nl": "Assets waarvan het belangrijkste doel is als middel van ruil of als opslag van waarde.",
+      "fr": "Actifs dont l'utilisation principale est comme moyen d'échange ou comme moyen de stockage de valeur.",
+      "de": "Assets, deren Hauptverwendungszweck ist als Tauschmittel oder als Wertaufbewahrung ist.",
+      "ja": "資産の主な用途は、交換手段として、または価値の保存としてです。",
+      "ko": "자산의 주요 용도는 교환 수단이거나 가치 보관입니다.",
+      "ar": "الأصول التي يتم استخدامها بشكل أساسي كوسيلة للتبادل أو كوسيلة لتخزين القيمة.",
+      "zh": "资产的主要用途是作为交换媒介或价值存储。",
+      "ro": "Activele care au ca scop principal utilizarea ca mijloc de schimb sau ca mijloc de păstrare a valorii.",
+      "el": "Οι πρωτεύουσες χρήσεις των περιουσιακών στοιχείων είναι ως μέσο ανταλλαγής ή ως μέσο αποθήκευσης της αξίας.",
+      "sv": "Tillgångar vars huvudsakliga syfte är att användas som bytväxling eller som värdeförvaring.",
+      "it": "Attività con lo scopo principale di essere utilizzate come mezzo di scambio o come mezzo di conservazione del valore.",
+      "fi": "Assets, joiden päätarkoitus on käytettävä vaihdossa tai arvon säilyttämiseen.",
+      "no": "Assets med hovedformål for bruk som byttegimmel eller som verdistasering.",
+      "da": "Assets med hovedformål for brug som byttegimmel eller som værdistasering.",
+      "pl": "Aktywnych, których główny cel jest użycie jako środek wymiany lub jako środek przechowywania wartości.",
+      "cs": "Assets, jejichž hlavním účelem je použití jako prostředek směny nebo jako prostředek pro uložení hodnoty.",
+      "sk": "Assets, ktorých hlavným účelom je použitie ako prostriedok výmeny alebo ako prostriedok na ukladanie hodnoty.",
+      "bg": "Активите, които имат като основна цел използването им като средство за обмен или за съхраняване на стойност.",
+      "id": "Aset yang dimiliki dengan tujuan utama digunakan sebagai alat pertukaran atau sebagai alat untuk menyimpan nilai.",
+      "vi": "Tài sản có mục đích chính là sử dụng như một phương tiện trao đổi hoặc làm giá trị lưu trữ.",
+      "ms": "Aset yang dimiliki dengan tujuan utama digunakan sebagai alat pertukaran atau sebagai alat untuk menyimpan nilai.",
+      "th": "สินทรัพย์ที่มีวัตถุประสงค์หลักคือการใช้เป็นสื่อการแลกเปลี่ยนหรือเป็นสื่อสำหรับจัดเก็บมูลค่า.",
+      "hi": "संपत्तियाँ जिनका प्रमुख उद्देश्य विनिमय के माध्यम के रूप में या मूल्य संग्रह के लिए उपयोग करना है।"
+    }
   },
   "layer_1": {
     "name": "Layer 1",
@@ -22,5 +51,9 @@
   "smart_contract_platform": {
     "name": "Smart Contract Platform",
     "description": "Self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code."
+  },
+  "memecoins": {
+    "name": "Memecoins",
+    "description": "Memecoins are cryptocurrencies that are created as a joke or for fun, often with a humorous name and design."
   }
 }
