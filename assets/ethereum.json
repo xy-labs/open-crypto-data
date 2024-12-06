@@ -38,27 +38,28 @@
   "whitepaper": "https://ethereum.org/en/whitepaper/",
   "source_code": ["https://github.com/ethereum/go-ethereum"],
   "block_explorers": ["https://etherscan.io/", "https://ethplorer.io/"],
-  "forum": "https://ethereum.stackexchange.com/",
+
   "socials": {
-    "reddit": "https://www.reddit.com/r/ethereum/",
-    "twitter": "https://twitter.com/ethereum",
-    "discord": "https://discord.gg/ethereum-org",
-    "telegram": {
-      "en": null
-    },
-    "telegram_ann": null,
-    "facebook": null,
-    "youtube": "https://www.youtube.com/c/EthereumFoundation",
-    "instagram": null,
-    "linkedin": "https://www.linkedin.com/company/ethereum-foundation"
+    "telegram": [],
+    "telegram_ann": [],
+    "x": ["ethereum"],
+    "discord": ["https://discord.gg/ethereum-org"],
+    "reddit": ["ethereum"],
+    "facebook": [],
+    "youtube": ["https://www.youtube.com/c/EthereumFoundation"],
+    "instagram": [],
+    "linkedin": ["https://www.linkedin.com/company/ethereum-foundation"],
+    "forum": ["https://ethereum.stackexchange.com/"]
   },
   "categories": ["smart_contract_platform", "pos", "layer_1"],
   "genesis_date": "2015-07-30",
   "consensus_algorithm": "pos",
-  "circulating_supply_api": "https://api.etherscan.io/api?module=stats&action=ethsupply2&apikey=your_api_token",
-  "circulating_supply_api_field": "result.EthSupply",
-  "total_supply_api": "https://api.etherscan.io/api?module=stats&action=ethsupply2&apikey=your_api_token",
-  "total_supply_api_field": "result.EthSupply",
-  "max_supply": "infinite",
+  "circulating_supply_api": "https://api.blockchair.com/ethereum/stats",
+  "circulating_supply_api_field": "data.circulation_approximate",
+  "circulating_supply_api_decimals": 18,
+  "total_supply_api": "https://api.blockchair.com/ethereum/stats",
+  "total_supply_api_field": "data.circulation_approximate",
+  "total_supply_api_decimals": 18,
+  "max_supply": 0,
   "sources": []
 }
