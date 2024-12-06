@@ -1,29 +1,27 @@
 {
-  "id": null,
-  "name": null,
-  "ticker": null,
-  "country": null,
-  "type": null,
-  "founding_year": null,
-  "url": null,
-  "url_ref": null,
-  "url_api": null,
-  "forum": null,
+  "id": str,
+  "name": str,
+  "ticker": str,
+  "country": str,
+  "has_spot": bool,
+  "has_derivatives": bool,
+  "has_options": bool,
+  "has_margin": bool,
+  "is_decentralized": bool,
+  "founding_year": int,
+  "url": str,
+  "url_ref": str,
+  "url_api": str,
   "socials": {
-    "reddit": null,
-    "twitter": null,
-    "telegram": {
-      "en": null,
-      "cn": null
-    },
-    "telegram_ann": {
-      "en": null,
-      "cn": null
-    },
-    "facebook": null,
-    "youtube": null,
-    "instagram": null,
-    "linkedin": null,
-    "discord": null
+    "telegram": [],
+    "telegram_ann": [],
+    "x": [],
+    "discord": [],
+    "reddit": [],
+    "facebook": [],
+    "youtube": [],
+    "instagram": [],
+    "linkedin": [],
+    "forum": []
   }
 }
